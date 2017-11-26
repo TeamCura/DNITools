@@ -1,6 +1,6 @@
 Instrucciones:
 
-para iniciar DNITool
+para iniciar _DNITool_
 primero instala python en windows o linux:
 
 En Windows:
